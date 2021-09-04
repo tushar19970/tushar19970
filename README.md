@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tushar-gupta-272192215/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="Tushar Gupta" width="40" /></a>
-<a href="https://www.instagram.com/i.praveenbairagi/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="tushargupta9540" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tushargupta9540/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="tushargupta9540" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
